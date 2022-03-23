@@ -1,6 +1,6 @@
 - 👋 Hi, I’m beer
 - 👀 I’m interested in java/python...
 - 🌱 I’m currently learning go etc ...
-- 📫 https://www.hexianwei.com
+- 📫 https://www.beer5214.com
 
 [![Beergithub stat](https://github-readme-stats.vercel.app/api?username=yangyang5214&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
