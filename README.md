@@ -14,4 +14,5 @@
 - [x] [无底湖](https://gist.github.com/yangyang5214/50f60374ee1daa0bc9184c65b9b1f37d)
 - [x] [阿布吉措](https://gist.github.com/yangyang5214/abca4bc0ee738dc5ab41a3176fc701c3)
 - [x] [紫金山](https://gist.github.com/yangyang5214/18dc3e684a5d8cc9dfdbb0e9b0026d08)
+- [x] [虎跳峡](https://gist.github.com/yangyang5214/7f06dd9e2e1645cb9d9e9b4088c857d6)
 
