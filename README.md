@@ -1,6 +1,3 @@
-> 一起爬山嘛 😘
-
-
 - [x] [武功山](https://gist.github.com/yangyang5214/aa931e49cbf44d335103d33440710792)
 - [x] [泰山](https://gist.github.com/yangyang5214/03035cb817448f79f4e3ac598d0bd438)
 - [x] [新四军环线](https://gist.github.com/yangyang5214/e3546bd4df4b067ba7349e7f1912eba2)
@@ -25,4 +22,5 @@
 - [ ] 贡嘎大环线
 - [ ] 洛克线
 - [ ] 乌孙古道
+- [ ] 全马
 
