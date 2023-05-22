@@ -12,6 +12,7 @@
 - [x] [阿布吉措](https://gist.github.com/yangyang5214/abca4bc0ee738dc5ab41a3176fc701c3)
 - [x] [紫金山](https://gist.github.com/yangyang5214/18dc3e684a5d8cc9dfdbb0e9b0026d08)
 - [x] [虎跳峡](https://gist.github.com/yangyang5214/7f06dd9e2e1645cb9d9e9b4088c857d6)
+- [x] [安山古道](https://gist.github.com/yangyang5214/656e782e0c9357db5d77fea662331e1f)
 - [ ] 四姑娘山
 - [ ] 梅里本破
 - [ ] 珠峰东坡
