@@ -14,7 +14,7 @@
 - [x] [虎跳峡](https://gist.github.com/yangyang5214/7f06dd9e2e1645cb9d9e9b4088c857d6)
 - [x] [安山古道](https://gist.github.com/yangyang5214/656e782e0c9357db5d77fea662331e1f)
 - [ ] 四姑娘山
-- [ ] 梅里本破
+- [ ] 梅里北坡
 - [ ] 珠峰东坡
 - [ ] 南太行
 - [ ] 五台山环线
